@@ -2,11 +2,12 @@
 
 ## APサーバーについて
 ruby:pumaversion 5.6.5  
-![](/Chinami-Risetech/images/railsapp.png)  
-![](/Chinami-Risetech/images/railsapp2.png)
+![railsapp]( images/railsapp.png )  
+![railsapp2]( images/railsapp2.png )
 
 ## DBサーバーについて
 mysqlversion:8.0.34  
+![db]( images/db.png )
 
 ## Railsの構成管理ツール
 Bundler
